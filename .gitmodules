@@ -1,0 +1,6 @@
+[submodule "vendors/no320_list_view"]
+	path = vendors/no320_list_view
+	url = https://github.com/i5ting/no320_list_view.git
+[submodule "vendors/jsonkit"]
+	path = vendors/jsonkit
+	url = https://github.com/johnezang/JSONKit.git
